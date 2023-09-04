@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#0055ff",
     "light": "#00d5ff",
-    "dark": "#00d5ff",
+    "dark": "#0055ff",
     "background": {
       "dark": "#000000",
       "light": "#ffffff"
@@ -40,17 +40,20 @@
     {
       "name": "Learn by Videos",
       "icon": "circle-play",
-      "url": "https://www.youtube.com/@novuhq"
+      "url": "https://www.youtube.com/@novuhq",
+      "color": "#00d5ff"
     },
     {
       "name": "Get instant help",
       "icon": "discord",
-      "url": "https://discord.gg/novu"
+      "url": "https://discord.gg/novu",
+      "color": "#00d5ff"
     },
     {
       "name": "FAQs",
       "icon": "bullseye-pointer",
-      "url": "faqs"
+      "url": "faqs",
+      "color": "#00d5ff"
     }
   ],
   "tabs": [
