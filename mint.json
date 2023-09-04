@@ -34,7 +34,8 @@
     {
       "name": "API Reference",
       "icon": "square-terminal",
-      "url": "api-reference"
+      "url": "api-reference",
+      "color": "#00d5ff"
     },
     {
       "name": "Learn by Videos",
